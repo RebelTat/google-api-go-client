@@ -8,10 +8,10 @@ require (
 	github.com/googleapis/gax-go/v2 v2.1.1
 	go.opencensus.io v0.23.0
 	// TODO(codyoss): unfreeze after min version of 1.14
-	golang.org/x/net v0.0.0-20210503060351-7fd8e65b6420
+	golang.org/x/net v0.7.0
 	golang.org/x/oauth2 v0.0.0-20211104180415-d3ed0bb246c8
-	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
-	golang.org/x/sys v0.0.0-20211216021012-1d35b9e2eb4e
+	golang.org/x/sync v0.0.0-20220722155255-886fb9371eb4
+	golang.org/x/sys v0.5.0
 	golang.org/x/xerrors v0.0.0-20200804184101-5ec99f83aff1
 	google.golang.org/appengine v1.6.7
 	google.golang.org/genproto v0.0.0-20211221231510-d629cc9a93d5
